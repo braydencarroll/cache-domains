@@ -12,3 +12,4 @@ amupdatedl4.microsoft.com
 amupdatedl5.microsoft.com
 au.archive.ubuntu.com
 *samsungdm.com
+*.archive.ubuntu.com
